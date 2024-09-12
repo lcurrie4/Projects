@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/lucas/My project/Assets/Formational Pathfinding.unity
+  isLoaded: 1
+  isActive: 1
